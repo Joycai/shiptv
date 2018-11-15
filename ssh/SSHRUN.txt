@@ -1,0 +1,3 @@
+cd /jffs/scripts/
+chmod +x iptv7x.sh 
+sh iptv7x.sh
